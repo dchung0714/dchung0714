@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-<!--
-**dchung0714/dchung0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Danny from California, I like to analysis data and turn it into easy to visualizations that anyone can comprehend. I have worked a lot of with python through google colab and have been trying to get better at using R and SQL for data manipulation. I enjoy using Tableau as a source of data visualizations since it makes it simple and easy to understand. Using a tool like SQL has been great because I can turn data into usable data that can be visualized in tableau. You can look at me through linkedin at https://www.linkedin.com/in/danny-chung-357bb8260/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python projects
-- 🌱 I’m currently learning SQL 
-- 👯 I’m looking to collaborate on python
-- 🤔 I’m looking for help with R
-- 💬 Ask me about Tableau
-- 📫 How to reach me: on linkedin https://www.linkedin.com/in/danny-chung-357bb8260/)https://www.linkedin.com/in/danny-chung-357bb8260/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love watching Grey's Anatomy
--->
+https://github.com/kefranabg/readme-md-generator.git
