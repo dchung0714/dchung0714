@@ -1,4 +1,4 @@
-### Hi there 👋, Danny Chung
+### Hi there 👋, I'm Danny Chung
 #### Business Analyst
 ![Business Analyst](https://w0.peakpx.com/wallpaper/526/99/HD-wallpaper-mountain-2d-2d-landscape-black-blue-foggy-mountains-purple-trees-violet.jpg)
 
